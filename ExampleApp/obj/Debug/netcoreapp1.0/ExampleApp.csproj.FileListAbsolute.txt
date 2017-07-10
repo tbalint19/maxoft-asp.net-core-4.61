@@ -1,0 +1,10 @@
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\bin\Debug\netcoreapp1.0\ExampleApp.deps.json
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\bin\Debug\netcoreapp1.0\ExampleApp.runtimeconfig.json
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\bin\Debug\netcoreapp1.0\ExampleApp.runtimeconfig.dev.json
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\bin\Debug\netcoreapp1.0\ExampleApp.dll
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\bin\Debug\netcoreapp1.0\ExampleApp.pdb
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\obj\Debug\netcoreapp1.0\ExampleApp.csprojResolveAssemblyReference.cache
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\obj\Debug\netcoreapp1.0\ExampleApp.AssemblyInfo.cs
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\obj\Debug\netcoreapp1.0\ExampleApp.dll
+c:\users\balint\documents\visual studio 2017\Projects\ExampleApp\ExampleApp\obj\Debug\netcoreapp1.0\ExampleApp.pdb
